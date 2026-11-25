@@ -1,0 +1,1 @@
+{"description":"One-line roast of a fridge for make.fun's One Line, One Laugh: Roast Your Fridge bounty.","engines":{"node":">=22.6"},"license":"MIT","main":"main.ts","name":"makefun-roast-fridge-20261125","scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
